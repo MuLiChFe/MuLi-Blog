@@ -128,7 +128,7 @@ const BLOG = {
 
   // 无关紧要的配置
   AVATAR: '/avatar.png', // 作者头像，被notion中的ICON覆盖。如果没有ICON则取public目录下的avatar.png
-  TITLE: process.env.NEXT_PUBLIC_TITLE || 'TGCS', // 站点标题 ，被notion中的页面标题覆盖
+  TITLE: process.env.NEXT_PUBLIC_TITLE || '光遇-沐林', // 站点标题 ，被notion中的页面标题覆盖
   DESCRIPTION:
     process.env.NEXT_PUBLIC_DESCRIPTION || '', // 站点描述，被notion中的页面描述覆盖
 
