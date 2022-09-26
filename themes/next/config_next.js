@@ -1,7 +1,7 @@
 const CONFIG_NEXT = {
 
   HOME_BANNER: true, // 首页是否显示大图及标语 [true,false]
-  HOME_BANNER_Strings: ['海底月呢是天上月', '眼前人呢是心上人', '没有想什么想说的，只是希望你知道','我一直在等你哦...'], // 首页大图标语文字
+  HOME_BANNER_Strings: ['海底月 是天上月', '眼前人 是心上人', '宇航员 总能找到属于他的月亮','那么我们有一天也能相遇吧...'], // 首页大图标语文字
 
   NAV_TYPE: 'autoCollapse', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部、屏幕顶部自动折叠，不固定
 
