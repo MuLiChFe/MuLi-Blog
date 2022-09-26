@@ -123,7 +123,7 @@ const TopNav = props => {
           { isOpen ? <i className='fas fa-times'/> : <i className='fas fa-bars'/> }
           </div>
         </div>
-        TGC Survival
+        光遇-沐林
         {/* 右侧功能 */}
         <div className='mr-1 justify-end items-center font-serif'>
           <div onClick={() => { searchDrawer?.current?.show() }} className='mr-1 flex justify-end items-center text-sm space-x-4 font-serif dark:text-gray-200'>
